@@ -1,6 +1,7 @@
 import { FC } from "react";
 
 import { View, Text, StyleSheet, Image } from "react-native";
+import { Link } from "react-router-native";
 import StyledText from "../../../shared/StyledText";
 import theme from "../../../shared/theme";
 import RepositoryItemHeader from "./RepositoryItemHeader";
